@@ -10,7 +10,7 @@ OOTD(outfit of the day) prediction/suggestion bot providing context on the basis
 ### Clone the Repository
 ```sh
 git clone https://github.com/nags0x/weatherOOTD-bot.git
-cd nebula-hack
+cd weatherOOTD-bot
 ```
 
 ### Install Dependencies
